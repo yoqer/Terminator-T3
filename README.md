@@ -1,4 +1,4 @@
-# Basado el Proyecto Llm Amalia Gamma: Terminator - T3 V2 es la Version para el Entrenamiento Virtual de Robótica en Producción.
+# Basado en Avances del Proyecto Llm: Amalia Gamma: Terminator - T3 V2 es la Version para el Entrenamiento Virtual de Robótica en Producción.
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 [![Status: Production Ready](https://img.shields.io/badge/Status-Production%20Ready-green.svg)](./plan_de_implementacion_detallado.md)
@@ -113,10 +113,10 @@ Este proyecto es patrocinado por la **WC (WaterCax)** como una iniciativa para l
 
 *Nota: Lamentable el modelo T3 completo sufrio problematica y fue reconstruido, es posible que la adaptacion al entrenamiento en la Version Gamma de Amalia, pueda contener errores, se recomienda pasarlo previamente por sistema de correcion de cuales. 
 Alternativamente puede usar la versión del T2 con la combinacion de mejora del T3 que corrompio al mismo a un sistema impredecible. http://github.com/yoqer/Termineitor
-Es la anterior Version sin entrenamiento, *tenga cuidado.
+(Es la anterior Version sin entrenamiento, *tenga cuidado.)
 ---
 
-Todos los modelos se entregan sin garantia alguna ni inicio de entrenamiento, si desea usar su Robot inmediatamente puede adaptarle cualquier Llm, es proyecto acepta ramas en revision, por ser indicado para entrenar con la Adaptación de Amalia Version Gamma, Sistema de Entrenamiento de Mejora y Fine-tuning en Refourcing Learning, por lo que la interaccion de reentreno es necesaria para mejorar lad capacidades roboticas, los modelos no vienen entrenados, no obstante desde Espejin.com se pueden definir los patrones y objetivos en la Personalizacion de Modelos Fine-tuning y los Ll AmAlIA, para ver las ultimas actualizaciones en Robotica se preparo el modelo T4 con Cerebro Autonomo, para lo que ambos Robot estan preparados con las diferentes placas chip a conectar, conectadas y sin necesaria conexion a Internet con IoT.
+*Todos los modelos se entregan sin garantia alguna ni inicio de entrenamiento, si desea usar su Robot inmediatamente puede adaptarle cualquier Llm, el proyecto acepta las ramas pero en revision, por ser el indicado para entrenar con la Adaptación de Amalia Version Gamma, Sistema de Entrenamiento de Mejora y Fine-tuning en Refourcing Learning, por lo que la interaccion de reentreno es necesaria para mejorar las capacidades roboticas, los modelos no vienen entrenados, no obstante usuarios de Espejin.com  pueden definir los patrones y objetivos en la Personalizacion de Modelos Fine-tuning y los Ll AmAlIA. Para ver las ultimas actualizaciones en Robotica se preparo el modelo T4 con Cerebro Autonomo, para lo que tanto el T2, como el T3, estan preparados con las diferentes placas chip a conectar, conectadas y sin necesaria conexion a Internet con IoT.
 
 Proximamente disponible en Version 3 el Modelo T4:
 http://github.com/yoqer/T4
