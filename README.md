@@ -112,8 +112,9 @@ Este proyecto es patrocinado por la **WC (WaterCax)** como una iniciativa para l
 
 
 
+![kristanna-loken-i-cant-move](https://github.com/user-attachments/assets/a5dce8e6-46f0-4a1e-8f8c-278999f192b8)
 
-
+Imagen alineada:
 https://github.com/yoqer/Terminator-T3/blob/master/kristanna-loken-i-cant-move.gif
 
 
